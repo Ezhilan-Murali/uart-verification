@@ -1,0 +1,7 @@
+*.vcd
+*.wdb
+*.jou
+*.log
+*.sim
+*.runs
+*.cache

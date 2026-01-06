@@ -1,0 +1,38 @@
+# KERNEL: Reset done
+# KERNEL: ---------------------
+# KERNEL: [GEN]: operation: write, Dintx: 1100001
+# KERNEL: [Drv]: operation: write, Dintx: 1100001
+# KERNEL: [MON]: TX detected. Data: 01100001
+# KERNEL: [SCO]: Drv: 1100001, Mon: 1100001
+# KERNEL: [SCO]: PASSED
+# KERNEL: ----------------------------
+# KERNEL: ----------------------------
+# KERNEL: [GEN]: operation: read, Dintx: 1010
+# KERNEL: [Drv]: operation: read, rxdata: 11110110
+# KERNEL: [MON_rx]: rx: 0
+# KERNEL: [SCO]: Drv: 11110110, Mon: 11110110
+# KERNEL: [SCO]: PASSED
+# KERNEL: ----------------------------
+# KERNEL: ----------------------------
+# KERNEL: [GEN]: operation: read, Dintx: 11001110
+# KERNEL: [Drv]: operation: read, rxdata: 1111000
+# KERNEL: [MON_rx]: rx: 11110110
+# KERNEL: [SCO]: Drv: 1111000, Mon: 1111000
+# KERNEL: [SCO]: PASSED
+# KERNEL: ----------------------------
+# KERNEL: ----------------------------
+# KERNEL: [GEN]: operation: write, Dintx: 11111110
+# KERNEL: [Drv]: operation: write, Dintx: 11111110
+# KERNEL: [MON]: TX detected. Data: 01111110
+# KERNEL: [SCO]: Drv: 11111110, Mon: 11111110
+# KERNEL: [SCO]: PASSED
+# KERNEL: ----------------------------
+# KERNEL: ----------------------------
+# KERNEL: [GEN]: operation: read, Dintx: 11000100
+# KERNEL: [Drv]: operation: read, rxdata: 11001001
+# KERNEL: [MON_rx]: rx: 1111000
+# KERNEL: [SCO]: Drv: 11001001, Mon: 11001001
+# KERNEL: [SCO]: PASSED
+# KERNEL: ----------------------------
+# KERNEL: ----------------------------
+# KERNEL: Test Completed
